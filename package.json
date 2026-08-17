@@ -1,0 +1,15 @@
+{
+  "name": "alex-mythlvbot",
+  "version": "1.0.0",
+  "description": "Public Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
